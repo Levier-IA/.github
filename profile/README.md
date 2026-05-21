@@ -27,7 +27,7 @@ Un parcours certifiant de 7 heures conçu pour rendre les équipes non technique
 
 Dans le cadre de notre démarche E-E-A-T (Expertise, Autorité, Confiance), nous mettons à disposition de la communauté EdTech et des acteurs de la formation des outils pour simplifier la conformité et l'usage de l'IA :
 
-* 📁 [**qualiopi-markdown**](./) : L'intégralité du Guide de lecture officiel du Référentiel National Qualité (**Qualiopi V9 du 08/01/2024**) converti, nettoyé des bugs d'encodage de fichiers PDF, et structuré en Markdown par nos scripts IA. Idéal pour vos bases Notion/Obsidian ou pour indexer dans un système RAG.
+* 📁 [**qualiopi-markdown**](https://github.com/Levier-IA/qualiopi-markdown) : L'intégralité du Guide de lecture officiel du Référentiel National Qualité (**Qualiopi V9 du 08/01/2024**) converti, nettoyé des bugs d'encodage de fichiers PDF, et structuré en Markdown par nos scripts IA. Idéal pour vos bases Notion/Obsidian ou pour indexer dans un système RAG.
 
 ---
 
